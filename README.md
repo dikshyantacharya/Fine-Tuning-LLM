@@ -59,6 +59,6 @@ Notes
 
 ## Author Information
 
-**Name:** [Dikshyant Acharya]
+**Name:** Dikshyant Acharya
 
-**Email:** [dikshyantacharya@google.com]
+**Email:** dikshyantacharya@google.com
